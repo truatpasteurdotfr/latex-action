@@ -1,4 +1,4 @@
-FROM ghcr.io/xu-cheng/texlive-small:latest
+FROM ghcr.io/truatpasteurdotfr/docker-latex-auto-template:main
 
 COPY \
   LICENSE \
