@@ -1,4 +1,4 @@
-name: Test Github Action
+name: Test Github Action (small)
 on:
   push:
   pull_request:
