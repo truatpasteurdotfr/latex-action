@@ -1,4 +1,4 @@
-FROM ghcr.io/truatpasteurdotfr/docker-latex-auto-template:main
+FROM ghcr.io/truatpasteurdotfr/docker-pandoc-auto-template:main
 
 COPY \
   LICENSE \
